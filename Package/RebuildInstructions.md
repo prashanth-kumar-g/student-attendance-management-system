@@ -33,5 +33,5 @@ To keep this GitHub repository clean and fast to clone, the full installer packa
 
 📌 Notes:
 
-* End users do **not** need this package — they can directly download the final SAMS installer from the [GitHub Releases](https://github.com/prashanth-kumar-g/student-attendance-management-system/releases/tag/v2.0).
+* End users do **not** need this package — they can directly download the final SAMS installer from the [GitHub Releases](https://github.com/prashanth-kumar-g/student-attendance-management-system/releases/tag/v1.0.0).
 * This is intended for developers who wish to rebuild, audit, or customize the SAMS installer.
