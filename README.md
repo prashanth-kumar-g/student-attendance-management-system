@@ -29,6 +29,4 @@
   <a href="https://www.youtube.com/watch?v=RSNttaydg-g" target="_blank">
     <img src="https://i.ibb.co/rK4NBrZj/z5.png" alt="SAMS Demo" width="480">
   </a>
-  <br>
-  <strong>▶ Watch Full Demo on YouTube</strong>
 </div>
