@@ -165,3 +165,36 @@ This includes:
 > ⚠️ End users do not need this. This is only for those who want to audit or regenerate the installer manually.
 
 ---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve this project, fix issues, or suggest new features:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Submit a pull request with a clear explanation
+
+You can also open issues for bugs, ideas, or questions.  
+Thank you for helping make SAMS better!
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use and modify this project for personal or educational purposes.  
+Please see the `LICENSE` file for full license terms.
+
+---
+
+## ©️ Copyrights
+
+© 2025 Prashant Kumar G. All rights reserved.
+
+This project, including its source code, design, and associated materials, is the original work of the author.  
+Unauthorized copying, modification, or commercial use is not permitted without prior written consent.
+
+---
