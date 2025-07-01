@@ -74,3 +74,55 @@ SAMS is equipped with powerful and practical modules tailored for managing stude
 - 📚 Built-in help/documentation section (PDF)
 - 🔒 Form tracking system to prevent multiple instances of the same window
 
+---
+
+## 🖼️ Screenshots
+
+Here are interface highlights from the SAMS application:
+
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/6d5QYJn/z1.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/DHLSHb1K/z2.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/ZpBcqQZv/z3.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/SwBCHzMt/z4.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/KZvS8Y6/z5.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/0RpxMCmK/z6.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/nN64CcMr/z7.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/8ZBW90X/z8.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/SXyMMLLz/z9.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/Jj64nZg8/z10.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/cRvSGWg/z11.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/Gf0779Rr/z12.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/NgZ89Mr4/z13.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/GvNC23zk/z14.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/nq8rPsb2/z15.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/XxxgBpgJ/z16.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/pvMmx527/z17.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/v4Yhn6Nd/z18.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/SwPJY1KP/z19.png" width="400"/></td>
+    <td><img src="https://i.ibb.co/LDKNC4Ph/z20.png" width="400"/></td>
+  </tr>
+</table>
+
+> 📌 Screenshots cover login, admin controls, attendance, reporting, and more.
+
+---
