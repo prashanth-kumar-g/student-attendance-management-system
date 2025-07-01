@@ -2,18 +2,18 @@
 
 ---
 
-📋 Table of Contents  
+📋 Table of Contents
 
-- [Overview](#overview)  
-- [Demo Video](#demo-video)  
-- [Tech Stack](#tech-stack)  
-- [Features](#features)  
-- [Screenshots](#screenshots)  
-- [Installation](#installation)  
-- [Developer Notes](#developer-notes)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Copyrights](#copyrights)  
+- [Overview](#-overview)
+- [Demo Video](#-demo-video)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Developer Notes](#-developer-notes)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Copyrights](#-copyrights)
 
 ---
 
