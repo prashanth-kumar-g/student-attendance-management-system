@@ -150,3 +150,18 @@ Follow these steps to install and run the SAMS application on your Windows syste
 
 ---
 
+## 🧑‍💻 Developer Notes
+
+If you are a developer and wish to rebuild or customize the SAMS installer, complete instructions are available in:
+
+📁 [`Package/RebuildInstructions.md`](Package/RebuildInstructions.md)
+
+This includes:
+- How to clone the repo
+- Where to download the full external installer package
+- Folder structure required to compile
+- Steps to build the `SAMS_Setup.exe` using Inno Setup
+
+> ⚠️ End users do not need this. This is only for those who want to audit or regenerate the installer manually.
+
+---
