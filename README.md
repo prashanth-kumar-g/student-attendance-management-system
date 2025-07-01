@@ -48,3 +48,29 @@ The SAMS application is built using classic technologies suited for reliable off
 - **Setup Automation:** Batch script–based SQL database restoration during first run
 
 ---
+
+## ✨ Features
+
+SAMS is equipped with powerful and practical modules tailored for managing student attendance in educational institutions. Below is a breakdown of its key capabilities:
+
+### 👨‍🏫 Admin Panel Features
+- 🔐 Secure login authentication with validation for each admin
+- 👨‍🎓 Add, edit, and manage student records with photo upload
+- 👥 Add/edit/delete admin users with full details
+- 🗓️ Mark daily attendance for all students from one interface
+- 🔄 Update or delete existing records as needed
+
+### 👨‍🎓 User Dashboard Features
+- 📆 View detailed attendance reports by selected date
+- 📊 Access per-student and full class attendance summaries
+- 📄 Generate reports for: Student Details, Admin Details, Date-wise Attendance, Overall Attendance
+- 🎨 Color-coded status labels for better readability (e.g., green for present, red for absent)
+- 📋 Interactive report viewer with export-ready formatting
+
+### ⚙️ Application Features
+- 💾 First-launch automated database creation and restoration via batch script
+- 📦 One-click installer that bundles SQL Server and runtime dependencies
+- 🪟 MDI (Multi-Document Interface) for multitasking within the app
+- 📚 Built-in help/documentation section (PDF)
+- 🔒 Form tracking system to prevent multiple instances of the same window
+
