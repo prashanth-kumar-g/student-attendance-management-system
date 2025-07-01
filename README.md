@@ -126,3 +126,27 @@ Here are interface highlights from the SAMS application:
 > 📌 Screenshots cover login, admin controls, attendance, reporting, and more.
 
 ---
+
+## 🛡️ Installation
+
+Follow these steps to install and run the SAMS application on your Windows system:
+
+1. **Download the Installer**
+   - Go to the [Releases](https://github.com/prashanth-kumar-g/student-attendance-management-system/releases/latest) section.
+   - Download the latest version of `SAMS_Setup.exe`.
+
+2. **Run the Installer**
+   - Double-click `SAMS_Setup.exe`.
+   - It will install the application, SQL Server Express (if not already installed), and restore the SAMS database automatically.
+
+3. **Launch the Application**
+   - Use the desktop shortcut or Start menu to open the app.
+   - You can now log in using the default admin credentials and use the application.
+
+4. **Need Help?**
+   - 📺 Refer to the [Demo Video](#demo-video) above for a full walkthrough of installation and usage.
+
+> 💡 No manual database setup is required — everything is bundled with the installer for a seamless experience.
+
+---
+
