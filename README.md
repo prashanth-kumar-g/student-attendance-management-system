@@ -8,12 +8,12 @@
 - [Demo Video](#-demo-video)
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Installation](#-installation)
+- [Screenshots](#%EF%B8%8F-screenshots)
+- [Installation](#%EF%B8%8F-installation)
 - [Developer Notes](#-developer-notes)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Copyrights](#-copyrights)
+- [Copyrights](#%EF%B8%8F-copyrights)
 
 ---
 
