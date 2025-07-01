@@ -30,7 +30,7 @@
     <img src="https://i.ibb.co/rK4NBrZj/z5.png" alt="SAMS Demo" width="480">
   </a>
 </div>
-▶️ Click the thumbnail above to watch the full SAMS project demo on YouTube. <br>
+> ▶️ Click the thumbnail above to watch the full SAMS project demo on YouTube. <br>
 <br>
 📘 This demo video provides a complete walkthrough of the SAMS project, including installation, login flow, dashboard features, and attendance tracking. If you're new to the project or need a quick understanding of how it works, we recommend watching the video before proceeding with installation or development.
 
@@ -78,7 +78,7 @@ SAMS is equipped with powerful and practical modules tailored for managing stude
 
 ## 🖼️ Screenshots
 
-Here are interface highlights from the SAMS application:
+Below are complete interface screenshots from the SAMS application, covering all key modules and workflows — including login, admin controls, student management, attendance marking, user dashboard, and detailed reports.
 
 <table>
   <tr>
@@ -123,7 +123,7 @@ Here are interface highlights from the SAMS application:
   </tr>
 </table>
 
-> 📌 Screenshots cover login, admin controls, attendance, reporting, and more.
+> 📌 This gallery includes all major forms and features of the project to give a full visual understanding of how SAMS works.
 
 ---
 
