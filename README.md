@@ -132,7 +132,7 @@ Here are interface highlights from the SAMS application:
 Follow these steps to install and run the SAMS application on your Windows system:
 
 1. **Download the Installer**
-   - Go to the [Releases](https://github.com/prashanth-kumar-g/student-attendance-management-system/releases/latest) section.
+   - Go to the [Releases](https://github.com/prashanth-kumar-g/student-attendance-management-system/releases/tag/v1.0.0/SAMS_Setup.exe) section.
    - Download the latest version of `SAMS_Setup.exe`.
 
 2. **Run the Installer**
@@ -141,7 +141,7 @@ Follow these steps to install and run the SAMS application on your Windows syste
 
 3. **Launch the Application**
    - Use the desktop shortcut or Start menu to open the app.
-   - You can now log in using the default admin credentials and use the application.
+   - Log in using the default admin credentials and begin exploring the application's features.
 
 4. **Need Help?**
    - 📺 Refer to the [Demo Video](#demo-video) above for a full walkthrough of installation and usage.
