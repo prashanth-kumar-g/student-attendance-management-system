@@ -35,3 +35,16 @@
 📘 This demo video provides a complete walkthrough of the SAMS project, including installation, login flow, dashboard features, and attendance tracking. If you're new to the project or need a quick understanding of how it works, we recommend watching the video before proceeding with installation or development.
 
 ---
+
+## 🛠 Tech Stack
+
+The SAMS application is built using classic technologies suited for reliable offline desktop systems:
+
+- **Programming Language:** Visual Basic 6.0  
+- **Database:** Microsoft SQL Server Express 2022  
+- **Installer:** Inno Setup (via `sams_installer.iss`)  
+- **Architecture:** MDI (Multiple Document Interface) design  
+- **Database Connectivity:** ADODB  
+- **Setup Automation:** Batch script–based SQL database restoration during first run
+
+---
