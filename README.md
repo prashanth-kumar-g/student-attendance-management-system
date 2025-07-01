@@ -30,8 +30,9 @@
     <img src="https://i.ibb.co/rK4NBrZj/z5.png" alt="SAMS Demo" width="480">
   </a>
 </div>
+
 > ▶️ Click the thumbnail above to watch the full SAMS project demo on YouTube.
-<br>
+
 📘 This demo video provides a complete walkthrough of the SAMS project, including installation, login flow, dashboard features, and attendance tracking. If you're new to the project or need a quick understanding of how it works, we recommend watching the video before proceeding with installation or development.
 
 ---
