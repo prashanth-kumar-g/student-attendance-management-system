@@ -27,7 +27,7 @@
 
 <div>
   <a href="https://www.youtube.com/watch?v=RSNttaydg-g" target="_blank">
-    <img src="https://i.ibb.co/zH4PBLV7/z7.png" alt="SAMS Demo" width="480">
+    <img src="https://github.com/user-attachments/assets/6ee5a104-2fbd-4658-88c5-134f92fdc362" alt="SAMS Demo" width="480">
   </a>
 </div>
 
@@ -83,44 +83,44 @@ Below are complete interface screenshots from the SAMS application, covering all
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/6d5QYJn/z1.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/DHLSHb1K/z2.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/621bce0c-3100-41aa-ad45-1c759d430449" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3c2d4e66-8246-4c75-b7c0-5e8e29f1ab9a" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/ZpBcqQZv/z3.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/SwBCHzMt/z4.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1b01f45c-512a-49b6-9040-1a434ae48aab" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4500481b-b330-4b77-a81c-a36f877d9f7b" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/KZvS8Y6/z5.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/0RpxMCmK/z6.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cb28f65e-4357-43ed-ad2a-065a559dc359" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/14cd71f3-d19d-4d5c-8da9-32d8c90964ff" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/nN64CcMr/z7.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/8ZBW90X/z8.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb78baf4-640b-460a-a25d-eba02bd04f0f" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d09f524d-b073-4529-8b07-8ef6590e1ff0" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/SXyMMLLz/z9.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/Jj64nZg8/z10.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dc73acd4-bcae-409b-bd5b-e5bc1f0465de" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/776b1061-bb5a-4df1-9637-c23ce5e0b7b4" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/cRvSGWg/z11.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/Gf0779Rr/z12.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f45ae72c-351d-418b-ba19-74f3138709f5" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/909c632c-2f50-4d4e-8f4c-faebd41ce3b4" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/NgZ89Mr4/z13.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/GvNC23zk/z14.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e8436dcd-ae19-429b-8167-7f4a8eea0893" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/69789a13-0816-4139-bcd3-b2bfc4f7ce29" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/nq8rPsb2/z15.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/XxxgBpgJ/z16.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/521109b0-a857-45f2-b84f-39ab2cf1965e" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e6bc2475-e3c0-4859-a352-25fe4dc4c8bb" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/pvMmx527/z17.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/v4Yhn6Nd/z18.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fbafc665-1772-4d54-8268-5f6c94c3c2ce" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb208831-d428-44fa-8b92-ba332dbd8693" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/SwPJY1KP/z19.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/LDKNC4Ph/z20.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7bf95da1-d54a-47ef-a067-645245fe9724" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6b66ee06-01c6-4a27-92dd-b195de0f6d15" width="400"/></td>
   </tr>
 </table>
 
