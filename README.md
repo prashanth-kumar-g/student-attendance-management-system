@@ -184,18 +184,14 @@ Thank you for helping make SAMS better!
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-You are free to use and modify this project for personal or educational purposes.  
-Please see the `LICENSE` file for full license terms.
+This project is licensed under the [MIT License](LICENSE).  
+You may use and modify this code for personal or educational purposes—see `LICENSE` for full details.
 
 ---
 
 ## ©️ Copyrights
 
-© 2025 Prashant Kumar G. All rights reserved.
-
-This project, including its source code, design, and associated materials, is the original work of the author.  
-Unauthorized copying, modification, or commercial use is not permitted without prior written consent.
+© 2025 Prashanth Kumar G. All rights reserved.  
+Unauthorized commercial use or redistribution is prohibited without prior written consent.
 
 ---
