@@ -9,7 +9,7 @@
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
 - [Screenshots](#%EF%B8%8F-screenshots)
-- [Installation](#%EF%B8%8F-installation)
+- [Installation](#-installation)
 - [Developer Notes](#-developer-notes)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -128,7 +128,7 @@ Below are complete interface screenshots from the SAMS application, covering all
 
 ---
 
-## 🛡️ Installation
+## 🚀 Installation
 
 Follow these steps to install and run the SAMS application on your Windows system:
 
