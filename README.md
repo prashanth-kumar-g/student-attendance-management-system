@@ -27,7 +27,7 @@
 
 <div>
   <a href="https://www.youtube.com/watch?v=RSNttaydg-g" target="_blank">
-    <img src="https://i.ibb.co/rK4NBrZj/z5.png" alt="SAMS Demo" width="480">
+    <img src="https://i.ibb.co/zH4PBLV7/z7.png" alt="SAMS Demo" width="480">
   </a>
 </div>
 
