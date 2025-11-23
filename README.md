@@ -26,7 +26,7 @@
 ## 🎥 Demo Video
 
 <div>
-  <a href="https://www.youtube.com/watch?v=RSNttaydg-g" target="_blank">
+  <a href="https://youtu.be/3hIXfzgP3jw" target="_blank">
     <img src="https://github.com/user-attachments/assets/6ee5a104-2fbd-4658-88c5-134f92fdc362" alt="SAMS Demo" width="480">
   </a>
 </div>
